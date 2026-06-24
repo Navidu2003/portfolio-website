@@ -3,7 +3,7 @@
 A modern, highly professional portfolio website built to showcase my experience, skills, and projects as an Artificial Intelligence & Machine Learning Intern and Python Developer.
 
 ## 🚀 Live Demo
-*(You can add your GitHub Pages link here once deployed, e.g., https://navidu2003.github.io/portfolio)*
+(https://github.com/Navidu2003/portfolio-website)
 
 ## ✨ Features
 - **Modern Glassmorphism Design:** Beautiful UI with semi-transparent elements and blurred backgrounds.
